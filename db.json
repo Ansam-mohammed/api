@@ -27,69 +27,63 @@
      "bathroom" : 5,
      "bedroom":4,
      "price":7000,
-     "city": "Gaza" ,
+     "city": "Khanyunis" ,
      "image":"https://themes.getmotopress.com/villagio/wp-content/uploads/sites/8/2017/06/Depositphotos_6231054_original-717x540.jpg"
      },
     
      { "id": 4,
-     "title": "ready-to-occupy apartment" ,
-     "description":"Area of 90 square meters with a stunning view overlooking the eastern and southern sides of the Municipal Park. Located on Bulbul Street. We are looking forward to your visit and would be delighted to assist you.",
+     "title": "Beachfront Villa"  ,
+     "description":"A wonderful fully equipped beachfront villa, where you can have your best vacation memories."
      "bathroom" : 3 ,
      "bedroom":4,
-     "category":"roof",
-     "price":200,
-     "city": "Khanyunis" ,
-     "image":"https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "price":7000,
+     "city": "Gaza" ,
+     "image":"https://themes.getmotopress.com/villagio/wp-content/uploads/sites/8/2017/06/Depositphotos_5789835_original-1434x734.jpg"
      },
      { "id": 5,
      "title": "attractive offer price" ,
      "description":"A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches. The location is in Al-Burayj, Block 12, close to all services. Electricity and water are available. The price is very appealing, and its area is 100 square meters",
      "bathroom" : 1 ,
      "bedroom":3,
-     "category":"studio",
-     "price":350,
+      "price":6000,
      "city": "ALwosta" ,
-     "image":"https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "image":"https://i.pinimg.com/564x/c5/20/fc/c520fcd20283f04397b3e5722c80e60d.jpg"
      },
      { "id": 6,
      "title": "a four-story house" ,
      "description":"A modern residential building comprising 3 bedrooms, a kitchen, a living room, and two bathrooms. Located on the fifth floor, facing east and south, overlooking the main street. The total area is 110 square meters. The price is $38,000 . The building has a 24-hour working elevator. Situated in the western Nasr district, near Ayadia Street",
      "bathroom" : 3 ,
      "bedroom":4,
-     "category":"apartment",
-     "price":100,
+      "price":1000,
       "city": "North",
-     "image":"https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "image":"https://i.pinimg.com/564x/e6/33/be/e633bee58fa97f479e250dcf1c74edf9.jpg"
      },
      { "id": 7,
      "title": "A Slice Of Caribbean Paradise" ,
      "description":"The tropical beaches of Montego Bay cordially invite you to relax and indulge in pampering in all-encompassing style! The perfect place to unwind on perfectly white sandy beaches, each guest is guaranteed a harmonious and hassle-free vacation filled with gourmet cuisine, expertly poured cocktails, and enough memories to last many times over",
      "bathroom" : 3 ,
      "bedroom":4,
-     "category":"roof",
      "price":250,
       "city": "Rafah",
-     "image":"https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "image":"https://i.pinimg.com/564x/b9/43/cb/b943cb82562cf8215b0cc2f92bf53bae.jpg"
      },
      { "id": 8,
      "title": "Bali'S Exotic Indonesian Escape" ,
      "description":"Nestled on the eastern hills of Bali, Jepun Bali Villas is the quintessential Indonesian getaway, with its stunning views of the Indian Ocean, luxury details, and activities galore. Let the soothing sounds of a nearby waterfall lull you to a place of relaxation during a Balinese massage in your private outdoor pavilion.",
      "bathroom" : 2 ,
      "bedroom":3,
-     "category":"apartment",
      "price":350,
      "city": "North",
-     "image":"https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+     "image":"https://i.pinimg.com/564x/9f/1a/ee/9f1aee16dbf7fd49de40e0f74b32083d.jpg"
      },
      { "id": 9,
      "title": "The Best Of Fairmont" ,
      "description":"The home has impact windows and doors and eight layers of material on the walls including high grade 'R Matte 3 Plus' insulation, dens glass fire retardant sheathing, steel walls and finished with smooth dry wall interior.",
      "bathroom" : 3 ,
      "bedroom":2,
-     "category":"classic",
      "price":100,
      "city": "Rafah",
-     "image":"https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     "image":"https://i.pinimg.com/564x/52/85/5a/52855a6edc52855167eecfe8de3dbf43.jpg"
      },
 
   ],
