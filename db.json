@@ -90,22 +90,5 @@
 
 
 
-  "users": [
-    { "id": 1, "username": "Ansam", "email": "Ansam.9099@gmail.com" ,"password": "Ansam.1999", "mobile": "0597582153","image": ""}
-  ],
-
-
-
-   "locations ": [
-    { "city": "Gaza" },
-  { "city": "Khanyunis" },
-  { "city": "ALwosta" },
-  { "city": "Rafah" },
-  { "city": "North" }
-  ],
-
   
-
-   "favorites": [
-  ]
 }
