@@ -2,8 +2,8 @@
   "houses": [
     { "id": 1,
      "title": "single Family House" ,
-     "Description": “It is located in Tel al-Hawa. It has a spacious bungalow, which has approximately 2,576 square feet of leasable area.",
-     "bathroom" : 2 ,
+     "Description": "It is located in Tel al-Hawa. It has a spacious bungalow, which has approximately 2576 square feet of leasable area.",
+     "bathroom" : 2 ,  
      "bedroom":2,
      "price":2000$,
       "city": "Gaza" ,
