@@ -2,14 +2,15 @@
   "houses": [
     { "id": 1,
      "title": "single Family House" ,
-     "description":"pride of ownership duplex located in the heart of sultan street, rafah. The duplex features two spacious full floor flats situated on a 2, The property measures approximately 2, 576 square feet of rentable area.",
+     "Description": “It is located in Tel al-Hawa. It has a spacious bungalow, which has approximately 2,576 square feet of leasable area.",
      "bathroom" : 2 ,
-     "bedroom":3,
-     "category":"roof",
-     "price":200,
-     "city": "Rafah" ,
-     "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     "bedroom":2,
+     "price":2000$,
+      "city": "Gaza" ,
+      "image":"https://i.pinimg.com/564x/08/94/01/08940190387d33b28d81a8e232584b97.jpg"
      },
+
+    
      { "id": 2,
      "title": "attractive priced apartment" ,
      "description":"195 square meters with amenities. North direction, stone façade, a fully serviced building Located west of Abu Mazen Roundabout, purchased at $110,000 For sale at $72,000 with the possibility of considering serious buyers",
