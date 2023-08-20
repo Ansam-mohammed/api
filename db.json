@@ -5,21 +5,20 @@
      "Description": "It is located in Tel al-Hawa. It has a spacious bungalow, which has approximately 2576 square feet of leasable area.",
      "bathroom" : 2 ,  
      "bedroom":2,
-     "price":2000$,
+     "price":2000,
       "city": "Gaza" ,
       "image":"https://i.pinimg.com/564x/08/94/01/08940190387d33b28d81a8e232584b97.jpg"
      },
 
     
      { "id": 2,
-     "title": "attractive priced apartment" ,
-     "description":"195 square meters with amenities. North direction, stone façade, a fully serviced building Located west of Abu Mazen Roundabout, purchased at $110,000 For sale at $72,000 with the possibility of considering serious buyers",
-     "bathroom" : 2 ,
-     "bedroom":3,
-     "category":"apartment",
-     "price":350,
-     "city": "ALwosta" ,
-     "image":"https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     "title": "Multi family home" ,
+     "description":"195 square meters with amenities. North direction, stone façade, a fully serviced building Located west of Abu Mazen Roundabout, purchased at $110,000 For sale at $72,000 with the possibility of considering serious buyers ",
+     "bathroom" : 5 ,
+     "bedroom":6,
+     "price":5000,
+     "city": "Gaza" ,
+     "image":"https://i.pinimg.com/564x/82/56/8b/82568ba13eb7a0f6a34f2bbaf356f961.jpg"
      },
      { "id": 3,
      "title": "house with small land plot" ,
