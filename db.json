@@ -24,12 +24,13 @@
      { "id": 3,
      "title": "Seaside Villa" ,
      "description":"Beautiful villa in one of the most attractive destinations in Khan Yunis - in the Sahel area, in the south of the Gaza Strip.",
-     "bathroom" : 3 ,
-     "bedroom":2,
-     "price":100,
+     "bathroom" : 5,
+     "bedroom":4,
+     "price":7000,
      "city": "Gaza" ,
-     "image":"https://images.pexels.com/photos/892618/pexels-photo-892618.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+     "image":"https://themes.getmotopress.com/villagio/wp-content/uploads/sites/8/2017/06/Depositphotos_6231054_original-717x540.jpg"
      },
+    
      { "id": 4,
      "title": "ready-to-occupy apartment" ,
      "description":"Area of 90 square meters with a stunning view overlooking the eastern and southern sides of the Municipal Park. Located on Bulbul Street. We are looking forward to your visit and would be delighted to assist you.",
