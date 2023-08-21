@@ -1,94 +1,170 @@
 {
-  "houses": [
-    { "id": 1,
-     "title": "single Family House" ,
-     "Description": "It is located in Tel al-Hawa. It has a spacious bungalow, which has approximately 2576 square feet of leasable area.",
-     "bathroom" : 2 ,  
-     "bedroom":2,
-     "price":2000,
-      "city": "Gaza" ,
-      "image":"https://i.pinimg.com/564x/08/94/01/08940190387d33b28d81a8e232584b97.jpg"
-     },
+    "houses":[
+        {
+            "id":1,
+            "title":"Super Lux apartment",
+            "bathroom": 3 ,
+            "bedroom": 5,
+            "location": "Deir al-Balah" ,
+            "description": "Apartment in a two-storey house on an asphalt street of 12 meters in Deir, near Abu Arif Street. The house is on the edge of the land, and the rest of the area is cultivated, at a price of 529 dinars",
+            "category": "apartment",
+            "price":529,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/bb/1d/bb1da8fd88be88f5fb836efaa4d1c0b072af5fd863dba74e7c8825c115e4c602.jpg.webp"
+        },
+        {
+            "id":2,
+            "title":"Kushan Tabu",
+            "bathroom": 3 ,
+            "bedroom": 3,
+            "location": "Gaza" ,
+            "description": "A villa on Salah El-Din Street in Gaza, the house is on the edge of the land, and the rest of the area is cultivated, at a price of 1052 dinars.",
+            "category": "roof",
+            "price":1052,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/67/bc/67bc98c24b51f06c51962b32998b725ac022a46ca6013e1ffa07d38019764168.jpg.webp"
+        },
+        {
+            "id":3,
+            "title":"Apartment for sale",
+            "bathroom": 2 ,
+            "bedroom": 3,
+            "location": "ٌRafah" ,
+            "description": "Apartment in excellent condition for sale located near Omar Al Mukhtar Street",
+            "category": "apartment",
+            "price": 614,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/f6/ca/f6caf114af50a54212a2a1bc0e330c69a9453ee51e53064a1f6b2c5102bb21f1.jpg.webp"
+        },
+        {
+            "id":4,
+            "title":"Bone villa",
+            "bathroom": 3 ,
+            "bedroom": 6,
+            "location": "ٌRafah" ,
+            "description": "Villa in Al-Jeneina neighborhood for sale, land area 500 m, building area 320 m, it has a landmark and a main street, it has a ready water well, two separate entrances, a building designed according to the insulation system",
+            "category": "Villa",
+            "price": 2614,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/1d/fb/1dfb9cf51e018d6d8ba7a7765b57d6bc09dd42726a18a33cfcd747d8ea25b09b.jpg.webp"
+        },
+        {
+            "id":5,
+            "title":"Ready to move",
+            "bathroom": 2 ,
+            "bedroom": 3,
+            "location": "ٌGaza" ,
+            "description": "Ready-to-move-in apartment with balcony overlooking Al-Aam Street",
+            "category": "apartment",
+            "price": 441,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/aa/09/aa09173b07d205d2797732dca04462393599cec7d96df643fa4b693f8ae73cc4.jpg.webp"
+        },
+        {
+            "id":6,
+            "title":"Classic villa",
+            "bathroom": 3 ,
+            "bedroom": 5,
+            "location": "ٌKhan Younes" ,
+            "description": "Ground floor: living room, kitchen, storeroom, master bedroom with cloakroom and utility store - council room and dining room with two balconies, one on the kitchen and the other at the front of the house - internal staircase. First floor: master bedroom - two other bedrooms - large terrace",
+            "category": "villa",
+            "price": 1500,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/4c/3c/4c3c93a65bbc1102e8681d5855bd4225d38db26fd8b67d75ef22ba0f3cee9ff4.jpg.webp"
+        },
+        {
+            "id":7,
+            "title":"Villa Gala for daily rent",
+            "bathroom": 2 ,
+            "bedroom": 3,
+            "location": "Jabalia" ,
+            "description": "A distinctive villa consisting of two floors, with American furniture, a private garden, a quiet atmosphere, and a stunning view",
+            "category": "villa",
+            "price": 614,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/8e/d2/8ed28732cc710001f7c38c1e4627d22330bd04dd866118dd6fc2edc501f38046.jpg.webp"
+        },
+        {
+            "id":8,
+            "title":"Al-Akaber Villa",
+            "bathroom": 2 ,
+            "bedroom": 4,
+            "location": "ٌRafah" ,
+            "description": "A villa only for the elderly ??The chance of entering this villa is a guarantee that the happiness hormone will raise you to its highest level??",
+            "category": "villa",
+            "price": 900,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/f7/7c/f77cefe15f1a99797660f5e699e790acffccc1db80630c89d44cb385d6a43b75.jpg.webp"
+        },
+        {
+            "id":9,
+            "title":"Furnished studio",
+            "bathroom": 1 ,
+            "bedroom": 1,
+            "location": "ٌBeit Hanoun" ,
+            "description": "Furnished studios 40-60 sqm near Toasty Restaurant",
+            "category": "studio",
+            "price": 500,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/00/9d/009d320ea2ee5022527746e7938e76bb007f02707065c2547caa05aa84abd402.jpg.webp"
+        },
+        {
+            "id":10,
+            "title":"Apartment for sale",
+            "bathroom": 4 ,
+            "bedroom": 7,
+            "location": "ٌGaza" ,
+            "description": "Al-Shami residential building in Al-Dakhiliyah Street, close to all vital facilities in Salfit (schools, public market, public transportation, university, mosques, kindergartens, health)",
+            "category": "apartment",
+            "price": 2098,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/47/da/47da1a3010ad53f6cd9eaa89f64730190b76355d924ba6a5e07a03e19098d64f.jpg.webp"
+        },
+        {
+            "id":11,
+            "title":"Super Lux apartment",
+            "bathroom": 3 ,
+            "bedroom": 5,
+            "location": "Deir al-Balah" ,
+            "description": "Apartment in a two-storey house on an asphalt street of 12 meters in Deir, near Abu Arif Street. The house is on the edge of the land, and the rest of the area is cultivated, at a price of 529 dinars",
+            "category": "apartment",
+            "price":529,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/b0/f6/b0f6b87848843a9cf0e4aec8315565451c52a2b945abb5b73eb23f0c7efa34ae.jpg.webp"
+        },
+        {
+            "id":12,
+            "title":"Kushan Tabu",
+            "bathroom": 3 ,
+            "bedroom": 3,
+            "location": "Gaza" ,
+            "description": "A villa on Salah El-Din Street in Gaza, the house is on the edge of the land, and the rest of the area is cultivated, at a price of 1052 dinars.",
+            "category": "roof",
+            "price":1052,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/47/31/4731c5a0b529fa419c611a1906759ef6c0de9ac141b6240b494d455938c4a314.jpg.webp"
+        },
+        {
+            "id":13,
+            "title":"Apartment for sale",
+            "bathroom": 2 ,
+            "bedroom": 3,
+            "location": "ٌRafah" ,
+            "description": "Apartment in excellent condition for sale located near Omar Al Mukhtar Street",
+            "category": "apartment",
+            "price": 614,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/56/6e/566e4e1c94d7151fdc8b6970e2837324c67018dc115ad11a32e6eadd5c352afd.jpg.webp"
+        },
+        {
+            "id":14,
+            "title":"Bone villa",
+            "bathroom": 3 ,
+            "bedroom": 6,
+            "location": "ٌRafah" ,
+            "description": "Villa in Al-Jeneina neighborhood for sale, land area 500 m, building area 320 m, it has a landmark and a main street, it has a ready water well, two separate entrances, a building designed according to the insulation system",
+            "category": "Villa",
+            "price": 2614,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/63/9e/639e0b17e680d75562ed7156f4f0cc8eaf536989c529a8b817dac77b8531e11b.jpg.webp"
+        },
+        {
+            "id":15,
+            "title":"Ready to move",
+            "bathroom": 2 ,
+            "bedroom": 3,
+            "location": "ٌGaza" ,
+            "description": "Ready-to-move-in apartment with balcony overlooking Al-Aam Street",
+            "category": "apartment",
+            "price": 441,
+            "image": "https://opensooq-images.os-cdn.com/previews/0x720/af/af/afaf34aa032f300a87aa1597bc2f9699e98d3cb6c4195a212c46543afd68e732.jpg.webp"
 
-    
-     { "id": 2,
-     "title": "Multi family home" ,
-     "description":"A home designed to house several families, offering shared and distinct living spaces. It is located on the main street with a private pool and car parking ",
-     "bathroom" : 5 ,
-     "bedroom":6,
-     "price":5000,
-     "city": "Gaza" ,
-     "image":"https://i.pinimg.com/564x/82/56/8b/82568ba13eb7a0f6a34f2bbaf356f961.jpg"
-     },
-    
-     { "id": 3,
-     "title": "Seaside Villa" ,
-     "description":"Beautiful villa in one of the most attractive destinations in Khan Yunis - in the Sahel area, in the south of the Gaza Strip.",
-     "bathroom" : 5,
-     "bedroom":4,
-     "price":7000,
-     "city": "Khanyunis" ,
-     "image":"https://themes.getmotopress.com/villagio/wp-content/uploads/sites/8/2017/06/Depositphotos_6231054_original-717x540.jpg"
-     },
-    
-     { "id": 4,
-     "title": "Beachfront Villa"  ,
-     "description":"A wonderful fully equipped beachfront villa, where you can have your best vacation memories."
-     "bathroom" : 3 ,
-     "bedroom":4,
-     "price":7000,
-     "city": "Gaza" ,
-     "image":"https://themes.getmotopress.com/villagio/wp-content/uploads/sites/8/2017/06/Depositphotos_5789835_original-1434x734.jpg"
-     },
-     { "id": 5,
-     "title": "attractive offer price" ,
-     "description":"A three-bedroom house with a living room (and two bathrooms and a kitchen) is available. It overlooks 3 streets, with the street length having 3 branches. The location is in Al-Burayj, Block 12, close to all services. Electricity and water are available. The price is very appealing, and its area is 100 square meters",
-     "bathroom" : 1 ,
-     "bedroom":3,
-      "price":6000,
-     "city": "ALwosta" ,
-     "image":"https://i.pinimg.com/564x/c5/20/fc/c520fcd20283f04397b3e5722c80e60d.jpg"
-     },
-     { "id": 6,
-     "title": "a four-story house" ,
-     "description":"A modern residential building comprising 3 bedrooms, a kitchen, a living room, and two bathrooms. Located on the fifth floor, facing east and south, overlooking the main street. The total area is 110 square meters. The price is $38,000 . The building has a 24-hour working elevator. Situated in the western Nasr district, near Ayadia Street",
-     "bathroom" : 3 ,
-     "bedroom":4,
-      "price":1000,
-      "city": "North",
-     "image":"https://i.pinimg.com/564x/e6/33/be/e633bee58fa97f479e250dcf1c74edf9.jpg"
-     },
-     { "id": 7,
-     "title": "A Slice Of Caribbean Paradise" ,
-     "description":"The tropical beaches of Montego Bay cordially invite you to relax and indulge in pampering in all-encompassing style! The perfect place to unwind on perfectly white sandy beaches, each guest is guaranteed a harmonious and hassle-free vacation filled with gourmet cuisine, expertly poured cocktails, and enough memories to last many times over",
-     "bathroom" : 3 ,
-     "bedroom":4,
-     "price":250,
-      "city": "Rafah",
-     "image":"https://i.pinimg.com/564x/b9/43/cb/b943cb82562cf8215b0cc2f92bf53bae.jpg"
-     },
-     { "id": 8,
-     "title": "Bali'S Exotic Indonesian Escape" ,
-     "description":"Nestled on the eastern hills of Bali, Jepun Bali Villas is the quintessential Indonesian getaway, with its stunning views of the Indian Ocean, luxury details, and activities galore. Let the soothing sounds of a nearby waterfall lull you to a place of relaxation during a Balinese massage in your private outdoor pavilion.",
-     "bathroom" : 2 ,
-     "bedroom":3,
-     "price":350,
-     "city": "North",
-     "image":"https://i.pinimg.com/564x/9f/1a/ee/9f1aee16dbf7fd49de40e0f74b32083d.jpg"
-     },
-     { "id": 9,
-     "title": "The Best Of Fairmont" ,
-     "description":"The home has impact windows and doors and eight layers of material on the walls including high grade 'R Matte 3 Plus' insulation, dens glass fire retardant sheathing, steel walls and finished with smooth dry wall interior.",
-     "bathroom" : 3 ,
-     "bedroom":2,
-     "price":100,
-     "city": "Rafah",
-     "image":"https://i.pinimg.com/564x/52/85/5a/52855a6edc52855167eecfe8de3dbf43.jpg"
-     },
-
-  ],
-
-
-
-  
+        }
+    ]
 }
